@@ -40,3 +40,6 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D6ueVa?referralCode=_4oAwx)
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agent-150/Tele-wa)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agent-150/new333)
